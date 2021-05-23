@@ -1,0 +1,11 @@
+[package]
+name = "chan-runtime"
+version = "0.1.0"
+authors = ["Viktor A. Rozenko Voitenko <sharp.vik@gmail.com>"]
+edition = "2018"
+description = "Runtime system for the Chan Programming Language"
+readme = "README.md"
+license = "GNU GPLv3"
+repository = "https://github.com/chan-lang/runtime/"
+
+[dependencies]
